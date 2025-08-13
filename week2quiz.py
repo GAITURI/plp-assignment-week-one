@@ -15,7 +15,11 @@ except ValueError:
 
 # Task 2: Favorite Books Tuple
 # Create a tuple of your five favorite books
-favorite_books = ("The Alchemist", "Sapiens", "Dune", "1984", "The Lord of the Rings")
+favorite_books = ("The Alchemist", 
+                  "Sapiens", 
+                  "Dune", 
+                  "1984", 
+                  "The Lord of the Rings")
 
 # Use a for loop to print each book name on a new line
 print("\nMy Favorite Books:")
